@@ -2,7 +2,7 @@
 
 ## Project-13 : [Live-Link](https://html-css-proj-13.netlify.app/)
 
-### Time taken to complete the project: Around 2 hours
+### Time taken to complete the project: Around 3 hours
 
 ## Screenshots:
 
